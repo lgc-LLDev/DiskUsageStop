@@ -4,7 +4,7 @@
 
 当你 BDS 所在硬盘分区使用量超过指定比例时停服
 
-下载插件请去 [Releases](https://github.com/lgc2333/LLSEPlugins/releases)
+下载插件请去 [Releases](https://github.com/lgc-LLSEDev/DiskUsageStop/releases)
 
 _妈的，插件撞车了，但我还是给它写出来了，喜欢用哪个就用哪个吧_
 
