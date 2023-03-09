@@ -6,7 +6,7 @@
   "information": {
     "name": "DiskUsageStop",
     "description": "当 BDS 所在硬盘分区使用量超过指定比例时停服",
-    "author": "student_2333 <lgc2333@126.com>",
+    "author": "lgc2333",
     "license": "Apache-2.0",
     "homepage": "https://github.com/lgc-LLSEDev/DiskUsageStop"
   },
