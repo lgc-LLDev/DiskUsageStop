@@ -1,5 +1,5 @@
 // LiteLoaderScript Dev Helper
-/// <reference path="d:\Coding\LLSEAids/dts/llaids/src/index.d.ts"/>
+/// <reference path="../HelperLib/src/index.d.ts"/>
 /* global logger ll mc logger */
 
 const { existsSync, mkdirSync, writeFileSync, readFileSync } = require('fs');
