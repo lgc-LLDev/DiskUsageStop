@@ -12,7 +12,7 @@ _妈的，插件撞车了，但我还是给它写出来了，喜欢用哪个就�
 
 功能不多，看截图
 
-![1](https://media.githubusercontent.com/media/lgc-LLSEDev/readme/main/DiskUsageStop/Screenshot_20221126-012130.png)
+![1](https://raw.githubusercontent.com/lgc-LLSEDev/readme/main/DiskUsageStop/Screenshot_20221126-012130.png)
 
 # 配置文件
 
